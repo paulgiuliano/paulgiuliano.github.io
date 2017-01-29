@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>paulgiuliano.com</title>
-    <link>http://example.org/index.xml</link>
-    <description>Recent content on paulgiuliano.com</description>
+    <title>Paul Giuliano, Ph.D.</title>
+    <link>https://paulgiuliano.github.io/index.xml</link>
+    <description>Recent content on Paul Giuliano, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2017 Paul Giuliano</copyright>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Untitled</copyright>
+    <atom:link href="https://paulgiuliano.github.io/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
